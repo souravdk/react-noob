@@ -1,0 +1,27 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "Started React learning from Akshay Saini's turorial",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/souravdk/react-noob.git"
+  },
+  "author": "Sourav Dikshit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/souravdk/react-noob/issues"
+  },
+  "homepage": "https://github.com/souravdk/react-noob#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
